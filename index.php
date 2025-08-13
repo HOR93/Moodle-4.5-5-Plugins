@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * Block projeto_transversal
+ *
+ * @package     block_projeto_transversal
+ * @copyright   2025 Henrique <@aluno.unb.br>
+ */
 require_once(__DIR__ . '/../../config.php');
 require_login();
 
@@ -29,3 +34,4 @@ echo $OUTPUT->single_button($cancelurl, get_string('cancelbutton', 'local_deleta
 echo $OUTPUT->box_end();
 
 echo $OUTPUT->footer();
+
