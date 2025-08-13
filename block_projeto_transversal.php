@@ -4,7 +4,7 @@
  * Block projeto_transversal
  *
  * @package     block_projeto_transversal
- * @copyright   2025 Henrique <202066910@aluno.unb.br>
+ * @copyright   2025 Henrique <@aluno.unb.br>
  */
 class block_projeto_transversal extends block_base {
 
